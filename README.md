@@ -49,7 +49,7 @@ On macOS/Linux:
 
 open index.html
 ```
-![App Screen Shot](https://dhanishgajjar.github.io/js-to-do/git/sc.png)
+![App Screen Shot](https://github.com/shibam120302/TO_do/blob/main/Screenshot.png?raw=true)
 
 
 ### 🤝 Contributing
