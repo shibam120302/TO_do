@@ -1,4 +1,4 @@
-# 📝 TO_do - A Simple To-Do Web App
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1E38E0&background=63FF8300&center=true&width=435&lines=TO_do+-+A+Simple+To-Do+Web+App)](https://git.io/typing-svg)
 
 Welcome to **TO_do**, a lightweight and responsive to-do list web application made with **HTML**, **CSS**, and **JavaScript**. This app helps you keep track of your tasks efficiently. No frameworks or libraries are used — just pure vanilla JS.
 
@@ -12,7 +12,7 @@ Welcome to **TO_do**, a lightweight and responsive to-do list web application ma
 - Responsive UI for mobile and desktop  
 - Smooth and intuitive interface  
 
----
+
 
 ## 📁 Project Structure
 ```
